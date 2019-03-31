@@ -1,1 +1,2 @@
-# cahayafajar.github.io
+# isbernendi.github.io
+GitHub Pages
